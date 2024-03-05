@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f045fd5-3b4f-4afb-ba00-e91c007f2912" name="Changes" comment="Using Http Method">
-      <change afterPath="$PROJECT_DIR$/src/br/com/gadini/github/movieweb/modelos/TituloOmdb.java" afterDir="false" />
+    <list default="true" id="4f045fd5-3b4f-4afb-ba00-e91c007f2912" name="Changes" comment="Using Gson">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/firstProject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/gadini/github/movieweb/main/MainHttp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/gadini/github/movieweb/main/MainHttp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/gadini/github/movieweb/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/gadini/github/movieweb/modelos/Titulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709558559583</updated>
       <workItem from="1709558562339" duration="8677000" />
-      <workItem from="1709645828634" duration="6154000" />
+      <workItem from="1709645828634" duration="7065000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <option name="closed" value="true" />
@@ -130,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709659430067</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Using Gson">
+      <option name="closed" value="true" />
+      <created>1709662196157</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709662196157</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +148,7 @@
     <MESSAGE value="Creating Constructors" />
     <MESSAGE value="Using Different types of Lists" />
     <MESSAGE value="Using Http Method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Using Http Method" />
+    <MESSAGE value="Using Gson" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using Gson" />
   </component>
 </project>
