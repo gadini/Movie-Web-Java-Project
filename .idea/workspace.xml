@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f045fd5-3b4f-4afb-ba00-e91c007f2912" name="Changes" comment="Creating Constructors">
-      <change afterPath="$PROJECT_DIR$/src/br/com/gadini/github/movieweb/main/MainLists.java" afterDir="false" />
+    <list default="true" id="4f045fd5-3b4f-4afb-ba00-e91c007f2912" name="Changes" comment="Using Different types of Lists">
+      <change afterPath="$PROJECT_DIR$/src/br/com/gadini/github/movieweb/main/MainHttp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/gadini/github/movieweb/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/gadini/github/movieweb/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/gadini/github/movieweb/modelos/Filme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/gadini/github/movieweb/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/gadini/github/movieweb/modelos/Serie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/gadini/github/movieweb/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/gadini/github/movieweb/modelos/Titulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709558559583</updated>
       <workItem from="1709558562339" duration="8677000" />
-      <workItem from="1709645828634" duration="2791000" />
+      <workItem from="1709645828634" duration="5072000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <option name="closed" value="true" />
@@ -110,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709646612129</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Using Different types of Lists">
+      <option name="closed" value="true" />
+      <created>1709651592096</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709651592096</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +125,7 @@
     <MESSAGE value="Creating Models" />
     <MESSAGE value="Using Array List" />
     <MESSAGE value="Creating Constructors" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating Constructors" />
+    <MESSAGE value="Using Different types of Lists" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using Different types of Lists" />
   </component>
 </project>
