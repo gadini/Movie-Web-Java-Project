@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f045fd5-3b4f-4afb-ba00-e91c007f2912" name="Changes" comment="Using Gson">
+    <list default="true" id="4f045fd5-3b4f-4afb-ba00-e91c007f2912" name="Changes" comment="Using Exceptions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/gadini/github/movieweb/main/MainHttp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/gadini/github/movieweb/main/MainHttp.java" afterDir="false" />
     </list>
@@ -61,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709558559583</updated>
       <workItem from="1709558562339" duration="8677000" />
-      <workItem from="1709645828634" duration="7065000" />
+      <workItem from="1709645828634" duration="8330000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <option name="closed" value="true" />
@@ -135,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709662196157</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Using Exceptions">
+      <option name="closed" value="true" />
+      <created>1709663335431</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709663335431</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +157,7 @@
     <MESSAGE value="Using Different types of Lists" />
     <MESSAGE value="Using Http Method" />
     <MESSAGE value="Using Gson" />
-    <option name="LAST_COMMIT_MESSAGE" value="Using Gson" />
+    <MESSAGE value="Using Exceptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using Exceptions" />
   </component>
 </project>
