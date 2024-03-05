@@ -1,3 +1,5 @@
+package br.com.gadini.github.movieweb.main;
+
 import br.com.gadini.github.movieweb.calculos.CalculadoraTempo;
 import br.com.gadini.github.movieweb.calculos.FiltroRecomendacao;
 import br.com.gadini.github.movieweb.modelos.Episodio;
